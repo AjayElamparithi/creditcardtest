@@ -1,0 +1,61 @@
+.container {
+    margin-top: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .formDiv {
+    width: 400px;
+    height: auto;
+    padding: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    -webkit-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+    box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  }
+  
+  .alert {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .creditCard{
+      margin-bottom: 10%;
+  }
+
+  h3{
+      text-decoration: underline;
+      font-family: 'Times New Roman', Times, serif ;
+  }
+
+ #validateButton{
+     width: 100%;
+     margin-top: 10px;
+ }
+ #cardSecurityCode{
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+ #cardNumber{
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+ #cardType{
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+ #cardExpiration{
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+ #cardExpiration{
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+ #cardPostalCode{
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
