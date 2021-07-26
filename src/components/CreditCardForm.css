@@ -4,9 +4,6 @@
     display: flex;
     justify-content: center;
   }
-  body{
-      overflow: hidden;
-  }
   .formDiv {
     width: 400px;
     padding: 30px;
